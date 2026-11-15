@@ -1,6 +1,10 @@
 # Pre-Token Radar (make.fun token-radar-01)
 
-A token launch radar for [make.fun's token-radar-01 bounty](https://make.fun). It reads a sealed
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/irishbel7-cmyk/pre-token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/irishbel7-cmyk/pre-token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
+A token launch radar for [make.fun's "Build the best token launch radar" bounty](https://make.fun/bounty/token-radar-01). It reads a sealed
 DefiLlama snapshot of the protocol universe, ranks every pre-token protocol by an implied value, and
 writes a static dashboard that shows each protocol's model inputs and its farm plan.
 
